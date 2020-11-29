@@ -1,4 +1,4 @@
-It shouldn't be hard to publish your content. It should be as simple as a few clicks and everyone in the world cans ee your creation. Our domain & website service makes this easy for everyone.
+It shouldn't be hard to publish your content. It should be as simple as a few clicks and everyone in the world cans see your creation. Our domain & website service makes this easy for everyone.
 
 # Availability
 Currently, our domain & website service is under construction but will be open soon.
