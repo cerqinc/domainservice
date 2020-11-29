@@ -3,5 +3,5 @@ It shouldn't be hard to publish your content. It should be as simple as a few cl
 # Availability
 Currently, our domain & website service is under construction but will be open soon.
 ### When will it be avilable?
-We don't have a set date yet, but we are doing our best. Check back every once in a while and we might be open.
+We don't have a set date yet, but we are doing our best. Check back every once in a while and we might be open.  
 *Admins view your panel [here](/admin)*
